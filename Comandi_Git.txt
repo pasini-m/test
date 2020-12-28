@@ -1,0 +1,6 @@
+git add -A . - il punto indica di includere le sottocartelle
+git commit -m "Messaggio con indicazioni"
+git push
+
+Per scaricare
+git pull
